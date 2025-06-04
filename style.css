@@ -1,0 +1,25 @@
+<head>
+    <title>Minha Página</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: blue;
+            text-align: center;
+        }
+        p {
+            font-size: 16px;
+        }
+        img {
+            width: 300px;
+            height: auto;
+            margin: 20px;
+        }
+        a {
+            color: green;
+            text-decoration: none;
+        }
+    </style>
+</head>
